@@ -7,7 +7,7 @@ you should input ip address and mac address in variables before run this program
 
 open the terminal(or command prompt) and using the "ifconfig -all(or ipconfig -all)" command and find my_ip and my_mac
 
-using the arp -a command and find gateway_ip, gateway_mac, target_ip, target_mac
+using the "arp -a" command and find gateway_ip, gateway_mac, target_ip, target_mac
 
 after setting the ip address and mac address, run the program
 
