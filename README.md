@@ -17,10 +17,10 @@ finally, open wireshark and check the packets sent by the target
 
 I didn't create a function to stop the program
 
-With the help of python editors, you should use a button to force quit the program
+with the help of python editors, you should use a button to force quit the program
 
 # important thing
 
 ethical thinking
 
-You can freely use this source code, but we are not responsible for it
+you can freely use this source code, but we are not responsible for it
